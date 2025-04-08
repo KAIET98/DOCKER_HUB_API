@@ -107,3 +107,15 @@ http://127.0.0.1/docs
 
 ```
 
+Si queremos pararlo
+
+```
+docker stop <id_container>
+```
+
+Verificamos que se ha parado con: 
+
+```
+docker ps -a
+```
+
